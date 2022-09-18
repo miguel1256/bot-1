@@ -89,4 +89,4 @@ await  ctx.send(row1 + row2 + row3 + row4 + row5)
 
 
 
-bot.run("MTAyMDkwMDEwMDg3ODM4MTA2Ng.G9mOgv.yMmhhUrUStMz2JkLtRZtbeq-VrjXwaMfWstTmc")
+bot.run("MTAyMDkwMDEwMDg3ODM4MTA2Ng.GtyhN-.e9RyUN-I_EUA1t5h-KvolmNuWw9fs0sDGHYNWk")
